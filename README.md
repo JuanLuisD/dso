@@ -1,4 +1,5 @@
 # dso
+
 #Crete virtual env :
 python -m vemv name_proyect
 # activate virtual env : 
